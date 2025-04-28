@@ -1,0 +1,408 @@
+[
+    {
+      "number": 1,
+      "destination": "Adrar",
+      "home_delivery": 1150,
+      "stopdesk_delivery": 850,
+      "duration": "2-7 days"
+    },
+    {
+      "number": 2,
+      "destination": "Chlef",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 3,
+      "destination": "Laghouat",
+      "home_delivery": 850,
+      "stopdesk_delivery": 400,
+      "duration": "24-96 hours"
+    },
+    {
+      "number": 4,
+      "destination": "Oum El Bouaghi",
+      "home_delivery": 750,
+      "stopdesk_delivery": 550,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 5,
+      "destination": "Batna",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 6,
+      "destination": "Béjaïa",
+      "home_delivery": 700,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 7,
+      "destination": "Biskra",
+      "home_delivery": 750,
+      "stopdesk_delivery": 450,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 8,
+      "destination": "Béchar",
+      "home_delivery": 1000,
+      "stopdesk_delivery": 750,
+      "duration": "24-96 hours"
+    },
+    {
+      "number": 9,
+      "destination": "Blida",
+      "home_delivery": 550,
+      "stopdesk_delivery": 300,
+      "duration": "2-48 hours"
+    },
+    {
+      "number": 10,
+      "destination": "Bouira",
+      "home_delivery": 700,
+      "stopdesk_delivery": 400,
+      "duration": "24-48 hours"
+    },
+    {
+      "number": 11,
+      "destination": "Tamanrasset",
+      "home_delivery": 1200,
+      "stopdesk_delivery": 900,
+      "duration": "2-7 days"
+    },
+    {
+      "number": 12,
+      "destination": "Tébessa",
+      "home_delivery": 850,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 13,
+      "destination": "Tlemcen",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 14,
+      "destination": "Tiaret",
+      "home_delivery": 700,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 15,
+      "destination": "Tizi Ouzou",
+      "home_delivery": 700,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 16,
+      "destination": "Algiers",
+      "home_delivery": 500,
+      "stopdesk_delivery": 300,
+      "duration": "1-24 hours"
+    },
+    {
+      "number": 17,
+      "destination": "Djelfa",
+      "home_delivery": 850,
+      "stopdesk_delivery": 450,
+      "duration": "24-96 hours"
+    },
+    {
+      "number": 18,
+      "destination": "Jijel",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 19,
+      "destination": "Sétif",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 20,
+      "destination": "Saïda",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 21,
+      "destination": "Skikda",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 22,
+      "destination": "Sidi Bel Abbès",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 23,
+      "destination": "Annaba",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 24,
+      "destination": "Guelma",
+      "home_delivery": 750,
+      "stopdesk_delivery": 500,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 25,
+      "destination": "Constantine",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-48 hours"
+    },
+    {
+      "number": 26,
+      "destination": "Médéa",
+      "home_delivery": 600,
+      "stopdesk_delivery": 300,
+      "duration": "12-48 hours"
+    },
+    {
+      "number": 27,
+      "destination": "Mostaganem",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 28,
+      "destination": "M'Sila",
+      "home_delivery": 850,
+      "stopdesk_delivery": 500,
+      "duration": "24-96 hours"
+    },
+    {
+      "number": 29,
+      "destination": "Mascara",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 30,
+      "destination": "Ouargla",
+      "home_delivery": 850,
+      "stopdesk_delivery": 500,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 31,
+      "destination": "Oran",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-48 hours"
+    },
+    {
+      "number": 32,
+      "destination": "El Bayadh",
+      "home_delivery": 900,
+      "stopdesk_delivery": 500,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 33,
+      "destination": "Illizi",
+      "home_delivery": 1200,
+      "stopdesk_delivery": 1100,
+      "duration": "2-7 days"
+    },
+    {
+      "number": 34,
+      "destination": "Bordj Bou Arréridj",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 35,
+      "destination": "Boumerdès",
+      "home_delivery": 400,
+      "stopdesk_delivery": 250,
+      "duration": "12-48 hours"
+    },
+    {
+      "number": 36,
+      "destination": "El Tarf",
+      "home_delivery": 750,
+      "stopdesk_delivery": 450,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 37,
+      "destination": "Tindouf",
+      "home_delivery": 1300,
+      "stopdesk_delivery": 850,
+      "duration": "2-7 days"
+    },
+    {
+      "number": 38,
+      "destination": "Tissemsilt",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 39,
+      "destination": "El Oued",
+      "home_delivery": 750,
+      "stopdesk_delivery": 500,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 40,
+      "destination": "Khenchela",
+      "home_delivery": 750,
+      "stopdesk_delivery": 450,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 41,
+      "destination": "Souk Ahras",
+      "home_delivery": 750,
+      "stopdesk_delivery": 450,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 42,
+      "destination": "Tipaza",
+      "home_delivery": 650,
+      "stopdesk_delivery": 400,
+      "duration": "12-48 hours"
+    },
+    {
+      "number": 43,
+      "destination": "Mila",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 44,
+      "destination": "Aïn Defla",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-48 hours"
+    },
+    {
+      "number": 45,
+      "destination": "Naâma",
+      "home_delivery": 900,
+      "stopdesk_delivery": 650,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 46,
+      "destination": "Aïn Témouchent",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 47,
+      "destination": "Ghardaïa",
+      "home_delivery": 750,
+      "stopdesk_delivery": 450,
+      "duration": "2-4 days"
+    },
+    {
+      "number": 48,
+      "destination": "Relizane",
+      "home_delivery": 750,
+      "stopdesk_delivery": 400,
+      "duration": "24-72 hours"
+    },
+    {
+      "number": 49,
+      "destination": "Timimoun",
+      "home_delivery": 1000,
+      "stopdesk_delivery": 750,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 50,
+      "destination": "Bordj Badji Mokhtar",
+      "home_delivery": 1800,
+      "stopdesk_delivery": null,
+      "duration": "3-10 days"
+    },
+    {
+      "number": 51,
+      "destination": "Ouled Djellal",
+      "home_delivery": 850,
+      "stopdesk_delivery": 600,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 52,
+      "destination": "Béni Abbès",
+      "home_delivery": 1250,
+      "stopdesk_delivery": null,
+      "duration": "3-10 days"
+    },
+    {
+      "number": 53,
+      "destination": "In Salah",
+      "home_delivery": 1200,
+      "stopdesk_delivery": 1000,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 54,
+      "destination": "In Guezzam",
+      "home_delivery": 1500,
+      "stopdesk_delivery": null,
+      "duration": "4-8 days"
+    },
+    {
+      "number": 55,
+      "destination": "Touggourt",
+      "home_delivery": 850,
+      "stopdesk_delivery": 550,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 56,
+      "destination": "Djanet",
+      "home_delivery": 1200,
+      "stopdesk_delivery": null,
+      "duration": "2-7 days"
+    },
+    {
+      "number": 57,
+      "destination": "El M'Ghair",
+      "home_delivery": 850,
+      "stopdesk_delivery": null,
+      "duration": "2-6 days"
+    },
+    {
+      "number": 58,
+      "destination": "El Menia",
+      "home_delivery": 1000,
+      "stopdesk_delivery": 750,
+      "duration": "2-6 days"
+    }
+  ]

@@ -131,9 +131,20 @@
   /**
    * Frequently Asked Questions Toggle
    */
-  document.querySelectorAll('.faq-item h3, .faq-item .faq-toggle').forEach((faqItem) => {
-    faqItem.addEventListener('click', () => {
-      faqItem.parentNode.classList.toggle('faq-active');
+  document.querySelectorAll('.faq-item h3, .faq-item .faq-toggle').forEach((faqTrigger) => {
+    faqTrigger.addEventListener('click', () => {
+      const faqItem = faqTrigger.parentNode;
+      const isActive = faqItem.classList.contains('faq-active');
+
+      // Close all FAQ items
+      document.querySelectorAll('.faq-item').forEach((item) => {
+        item.classList.remove('faq-active');
+      });
+
+      // Open the clicked FAQ item only if it wasn't already active
+      if (!isActive) {
+        faqItem.classList.add('faq-active');
+      }
     });
   });
 
